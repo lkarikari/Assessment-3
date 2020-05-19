@@ -177,17 +177,17 @@ Here is a link to the demonstration video:
 
 I’m glad I finished the project to a satisfactory standard but am a little disappointed that I couldn’t further develop the features. Outside issues affected my ability to attend some of the classes but I’m happy I was able to keep on top of my work (somewhat). 
 
-Functional & Resolved
+## Functional & Resolved ##
 
 As stated before, my device operates at an ideal standard for a demographic of toddlers and younger children, as it has a few interactive elements (response to touch and response to movement). It works properly and practically, and is more resolved than the first prototype, when visual appeal and the target audience is taken into consideration. 
 
 One part of the bear that isn’t as resolved is the bottom part where the battery is stored. I have no sewing or stitching skills and during this time, no access to a service like this, so the bottom is secured with safety pins. Ideally, there would be Velcro along the lining, making it easy to open and close. However, with the pins in place, it would be very difficult for a child to get it open and potentially get to the batteries, which makes for a slightly safer experience.
 
-Novelty
+## Novelty ##
 
 Unfortunately, the only novelty of the bear is the blushing feature, which is powered by the led lights on the micro:bit. It is a simple, functional design with a small novelty that I believe is effective considering the target audience.
 
-Robustness
+## Robustness ##
 
 The micro:bit is protected by a thick layer of stuffing between itself and the fabric of the bear. Because of this it can be vigorously shaken and nothing will move out of place. It is also very light and easy to hold. It can be pressed on, squeezed, thrown and dropped little to no damage would come to it (still not recommended to be dropped or thrown, though). Overall, the toy is very robust and suitable to be played with by an unruly child.
 
