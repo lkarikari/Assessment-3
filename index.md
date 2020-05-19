@@ -1,11 +1,7 @@
-# 1701QCA Making Interaction - Assessment 2 workbook
+# 1701QCA Final Project Journal: Lucinda Karikari
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
 
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
-## Project working title ##
-As of right now, the name of my project is Project Bit Buddy.
 
 ## Related Projects ##
 
@@ -159,3 +155,40 @@ I also would have liked to make the prototype smaller, and not have had to use t
 Now that I have a working prototype, the next things I will do moving forward are trying to get the light sensor to work, and replacing the large breadboard with alligator clips, which will allow me to make a smaller device and it will also be able to respond to a lot more types of input.
 I want to improve the aesthetic of the prototype as well, because balsa wood and aluminium foil don't make the device look very resolved. My hopes for the final outcome are that it will either look like a teddy bear or a unique style character that I design myself. I will do more research and brainstorming on different types of fabrics/materials I can use to make this possible. 
 It should also be noted that the micro:bit was very hard to move and could not be removed from the prototype once it was fully constructed. When I make the final outcome, I want the micro:bit to be easily accessible and easily removed.
+
+## Phase 2 Process Documentation ##
+
+## Design Process Discussion ##
+
+By the end of the making process I had figured out a name for my device: Pablo, the Blushing Panda
+
+## Final Code ##
+
+My final code remains the same as after some failed attempts to make the coding more complex, I reverted to what I knew would work 100%. I dedicated too much time towards outwards experimentation that eventually I was running out of time.
+
+![Image](code.PNG) 
+
+## Demonstration of Final Product ##
+
+Here is a link to the demonstration video: 
+
+## Reflection ##
+
+I’m glad I finished the project to a satisfactory standard but am a little disappointed that I couldn’t further develop the features. Outside issues affected my ability to attend some of the classes but I’m happy I was able to keep on top of my work (somewhat). 
+
+Functional & Resolved
+
+As stated before, my device operates at an ideal standard for a demographic of toddlers and younger children, as it has a few interactive elements (response to touch and response to movement). It works properly and practically, and is more resolved than the first prototype, when visual appeal and the target audience is taken into consideration. 
+
+One part of the bear that isn’t as resolved is the bottom part where the battery is stored. I have no sewing or stitching skills and during this time, no access to a service like this, so the bottom is secured with safety pins. Ideally, there would be Velcro along the lining, making it easy to open and close. However, with the pins in place, it would be very difficult for a child to get it open and potentially get to the batteries, which makes for a slightly safer experience.
+
+Novelty
+
+Unfortunately, the only novelty of the bear is the blushing feature, which is powered by the led lights on the micro:bit. It is a simple, functional design with a small novelty that I believe is effective considering the target audience.
+
+Robustness
+
+The micro:bit is protected by a thick layer of stuffing between itself and the fabric of the bear. Because of this it can be vigorously shaken and nothing will move out of place. It is also very light and easy to hold. It can be pressed on, squeezed, thrown and dropped little to no damage would come to it (still not recommended to be dropped or thrown, though). Overall, the toy is very robust and suitable to be played with by an unruly child.
+
+
+
