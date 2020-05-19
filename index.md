@@ -161,6 +161,34 @@ It should also be noted that the micro:bit was very hard to move and could not b
 
 ## Design Process Discussion ##
 
+My previous prototype took me a little while to make, but I was more focused on the functionality of it than the visual aesthetic. My focuses were on giving the toy more interactive features, trying to make a wagging tail and making the design look appealing to my target audience (children). After receiving feedback on Phase 1, my focus has shifted towards tailoring the entire design around the preferences of my target audience: Babies and toddlers.
+
+I still wanted to incorporate more interactive features in Phase 2 so I ran a few more tests with the device, first constructing it with the buzzer and M-F cables as touch sensors. Just like before, it ran great, but was still fairly simple. I then replaced the buzzer with the motor and changed the code so it would turn on in response to touch. This also ended up working, which was a great indicator that I could make a moving tail. 
+
+Since both these tests were a success, I was feeling optimistic that my plan would work properly. I connected both the buzzer and the motor to the breadboard with them both connected to pin 0. Only the buzzer would work when they were both connected to pin 0, so I reconnected the motor to pin 8. I ended up having the same problems as last time with unsuccessful coding, despite looking at tutorials online. One resource I didn’t utilize as much as I should have was the tutors. I didn’t ask for help with the coding, which ended up being detrimental to me and the assignment.
+
+I thought the best option to make my device look like a children’s toy was to go and buy a real stuffed toy, empty it out and rebuild it with the micro:bit inside it. I bought a couple toys in different sizes and cut them open along the bottom. After removing all the stuffing, I made incisions where I would thread the wires through – one on the back, one on the stomach and one on the right paw. 
+
+![Image](missingimage.png)
+![Image](missingimage.png)
+![Image](missingimage.png)
+![Image](missingimage.png)
+
+I used the same method as I did for the first prototype with the touch pads. They are connected to the pins with tape and the wires are pushed back inside, securing the pads to the back, front and right paw. 
+
+![Image](missingimage.png)
+
+The best-looking turnout was a medium sized panda bear plushie. It kept a normal looking form and the stuffing that I had put back inside it acted as a protective shield for the micro:bit, making it less likely to move around or break, and making the toy remain soft. 
+
+![Image](missingimage.png)
+
+I also had to make a place for the battery wire to go. Because the battery pack doesn’t have any on/off switch, the batteries have to be taken out and put in to turn the device off and on. I decided to have it rest inside the toy, allowing the batteries to be removed and replaced, but not leaving the battery pack exposed to the child.
+
+![Image](missingimage.png)
+
+I decided to keep the led display on despite it being covered, because the light can still be seen through the panda’s face and makes it look like it’s blushing, which I feel is a nice touch for a children’s toy. 
+The final product looks cute and is very simple. I actually believe the simplicity works in the toy’s favour, as it is targeted towards very young children. For its demographic, it is fun and engaging, easy to use and uncomplicated. If, however, I was making this for older children, it would need to have more features in order to be more engaging. 
+
 By the end of the making process I had figured out a name for my device: Pablo, the Blushing Panda
 
 ## Final Code ##
@@ -171,9 +199,13 @@ My final code remains the same as after some failed attempts to make the coding 
 
 ## Demonstration of Final Product ##
 
+Below is an image of Pablo's final form: 
+
+![Image](code.PNG) 
+
 Here is a link to the demonstration video: 
 
-## Reflection ##
+# Reflection 
 
 I’m glad I finished the project to a satisfactory standard but am a little disappointed that I couldn’t further develop the features. Outside issues affected my ability to attend some of the classes but I’m happy I was able to keep on top of my work (somewhat). 
 
