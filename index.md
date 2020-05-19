@@ -181,9 +181,8 @@ Here is where the micro:bit and the stuffing are secured inside the bear from. U
 
 I used the same method as I did for the first prototype with the touch pads. They are connected to the pins with tape and the wires are pushed back inside, securing the pads to the back, front and right paw. 
 
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](pawpad.jpg)
+![Image](stomachpad.jpg)
 
 I also had to make a place for the battery wire to go. Because the battery pack doesn’t have any on/off switch, the batteries have to be taken out and put in to turn the device off and on. I decided to have it rest inside the toy, allowing the batteries to be removed and replaced, but not leaving the battery pack exposed to the child.
 
@@ -200,10 +199,10 @@ My final code remains the same as after some failed attempts to make the coding 
 
 ## Demonstration of Final Product ##
 
-Below are some images of Pablo's final form: 
+Below is an image of Pablo's final form: 
 
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](final.jpg)
+
 
 Here is a link to the demonstration video: 
 
