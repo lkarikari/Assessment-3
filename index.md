@@ -169,10 +169,13 @@ Since both these tests were a success, I was feeling optimistic that my plan wou
 
 I thought the best option to make my device look like a children’s toy was to go and buy a real stuffed toy, empty it out and rebuild it with the micro:bit inside it. I bought a couple toys in different sizes and cut them open along the bottom. After removing all the stuffing, I made incisions where I would thread the wires through – one on the back, one on the stomach and one on the right paw. 
 
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](pinstomach.jpg)
+![Image](pinpaw.jpg)
+![Image](pinback.jpg)
+
+Here is where the micro:bit and the stuffing are secured inside the bear from. Unfortunately I can't sew and don't have access to outside resources at this time, so I had to make do and secure the bottom with safety pins.
+
+![Image](ass.jpg)
 
 I used the same method as I did for the first prototype with the touch pads. They are connected to the pins with tape and the wires are pushed back inside, securing the pads to the back, front and right paw. 
 
