@@ -169,6 +169,8 @@ Since both these tests were a success, I was feeling optimistic that my plan wou
 
 I thought the best option to make my device look like a children’s toy was to go and buy a real stuffed toy, empty it out and rebuild it with the micro:bit inside it. I bought a couple toys in different sizes and cut them open along the bottom. After removing all the stuffing, I made incisions where I would thread the wires through – one on the back, one on the stomach and one on the right paw. 
 
+The best-looking turnout was a medium sized panda bear plushie. It kept a normal looking form and the stuffing that I had put back inside it acted as a protective shield for the micro:bit, making it less likely to move around or break, and making the toy remain soft. 
+
 ![Image](pinstomach.jpg)
 ![Image](pinpaw.jpg)
 ![Image](pinback.jpg)
@@ -180,9 +182,7 @@ Here is where the micro:bit and the stuffing are secured inside the bear from. U
 I used the same method as I did for the first prototype with the touch pads. They are connected to the pins with tape and the wires are pushed back inside, securing the pads to the back, front and right paw. 
 
 ![Image](missingimage.png)
-
-The best-looking turnout was a medium sized panda bear plushie. It kept a normal looking form and the stuffing that I had put back inside it acted as a protective shield for the micro:bit, making it less likely to move around or break, and making the toy remain soft. 
-
+![Image](missingimage.png)
 ![Image](missingimage.png)
 
 I also had to make a place for the battery wire to go. Because the battery pack doesn’t have any on/off switch, the batteries have to be taken out and put in to turn the device off and on. I decided to have it rest inside the toy, allowing the batteries to be removed and replaced, but not leaving the battery pack exposed to the child.
