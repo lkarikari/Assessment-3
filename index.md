@@ -187,8 +187,6 @@ I used the same method as I did for the first prototype with the touch pads. The
 
 I also had to make a place for the battery wire to go. Because the battery pack doesn’t have any on/off switch, the batteries have to be taken out and put in to turn the device off and on. I decided to have it rest inside the toy, allowing the batteries to be removed and replaced, but not leaving the battery pack exposed to the child.
 
-![Image](missingimage.png)
-
 I decided to keep the led display on despite it being covered, because the light can still be seen through the panda’s face and makes it look like it’s blushing, which I feel is a nice touch for a children’s toy. 
 The final product looks cute and is very simple. I actually believe the simplicity works in the toy’s favour, as it is targeted towards very young children. For its demographic, it is fun and engaging, easy to use and uncomplicated. If, however, I was making this for older children, it would need to have more features in order to be more engaging. 
 
@@ -202,9 +200,10 @@ My final code remains the same as after some failed attempts to make the coding 
 
 ## Demonstration of Final Product ##
 
-Below is an image of Pablo's final form: 
+Below are some images of Pablo's final form: 
 
-![Image](code.PNG) 
+![Image](missingimage.png)
+![Image](missingimage.png)
 
 Here is a link to the demonstration video: 
 
