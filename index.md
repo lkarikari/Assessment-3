@@ -1,7 +1,8 @@
 # 1701QCA Final Project Journal: Lucinda Karikari
 
+This journal documents my continuous development and progress on both Assignments 2 and 3 over 7 weeks. The Journal is split into 2 Phases, with Phase 1 focused on initial ideas, conceptual development and defining the project's ultimate direction. Phase 2 further develops on the former, with more design and concept development, a refined design intent, final prototype, demonstration and reflection on the project as a whole.
 
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
+# Phase 1 
 
 ## Related Projects ##
 
@@ -156,7 +157,7 @@ Now that I have a working prototype, the next things I will do moving forward ar
 I want to improve the aesthetic of the prototype as well, because balsa wood and aluminium foil don't make the device look very resolved. My hopes for the final outcome are that it will either look like a teddy bear or a unique style character that I design myself. I will do more research and brainstorming on different types of fabrics/materials I can use to make this possible. 
 It should also be noted that the micro:bit was very hard to move and could not be removed from the prototype once it was fully constructed. When I make the final outcome, I want the micro:bit to be easily accessible and easily removed.
 
-## Phase 2 Process Documentation ##
+# Phase 2
 
 ## Design Process Discussion ##
 
